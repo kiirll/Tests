@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ClassTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>krill yet</name>
+  <Questions>
+    <ClassQuestion>
+      <name>1</name>
+      <Varieblles />
+    </ClassQuestion>
+    <ClassQuestion>
+      <name>2</name>
+      <Varieblles />
+    </ClassQuestion>
+    <ClassQuestion>
+      <name>2</name>
+      <Varieblles />
+    </ClassQuestion>
+  </Questions>
+</ClassTest>

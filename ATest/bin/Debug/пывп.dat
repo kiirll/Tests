@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ClassTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>пывп</name>
+  <Questions>
+    <ClassQuestion>
+      <name>ып</name>
+      <Varieblles>
+        <ClassVar>
+          <name>ывп</name>
+          <correctly>false</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name />
+          <correctly>true</correctly>
+        </ClassVar>
+      </Varieblles>
+    </ClassQuestion>
+    <ClassQuestion>
+      <name>реку</name>
+      <Varieblles>
+        <ClassVar>
+          <name />
+          <correctly>true</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>вып</name>
+          <correctly>false</correctly>
+        </ClassVar>
+      </Varieblles>
+    </ClassQuestion>
+  </Questions>
+</ClassTest>

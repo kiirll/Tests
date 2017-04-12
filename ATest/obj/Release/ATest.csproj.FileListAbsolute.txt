@@ -1,0 +1,10 @@
+C:\Users\Кирилл\documents\visual studio 2015\Projects\ATest\ATest\bin\Release\ATest.exe.config
+C:\Users\Кирилл\documents\visual studio 2015\Projects\ATest\ATest\bin\Release\ATest.exe
+C:\Users\Кирилл\documents\visual studio 2015\Projects\ATest\ATest\bin\Release\ATest.pdb
+C:\Users\Кирилл\documents\visual studio 2015\Projects\ATest\ATest\obj\Release\ATest.CheckTest.resources
+C:\Users\Кирилл\documents\visual studio 2015\Projects\ATest\ATest\obj\Release\ATest.CreateTest.resources
+C:\Users\Кирилл\documents\visual studio 2015\Projects\ATest\ATest\obj\Release\ATest.Form1.resources
+C:\Users\Кирилл\documents\visual studio 2015\Projects\ATest\ATest\obj\Release\ATest.Properties.Resources.resources
+C:\Users\Кирилл\documents\visual studio 2015\Projects\ATest\ATest\obj\Release\ATest.csproj.GenerateResource.Cache
+C:\Users\Кирилл\documents\visual studio 2015\Projects\ATest\ATest\obj\Release\ATest.exe
+C:\Users\Кирилл\documents\visual studio 2015\Projects\ATest\ATest\obj\Release\ATest.pdb

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<ClassTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Моя страна</name>
+  <Questions>
+    <ClassQuestion>
+      <name>Столица Украины</name>
+      <Varieblles>
+        <ClassVar>
+          <name>Крым</name>
+          <correctly>false</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>Киев</name>
+          <correctly>true</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>Берлин</name>
+          <correctly>false</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>Москва</name>
+          <correctly>false</correctly>
+        </ClassVar>
+      </Varieblles>
+    </ClassQuestion>
+    <ClassQuestion>
+      <name>Сколько областей в Украине</name>
+      <Varieblles>
+        <ClassVar>
+          <name>3</name>
+          <correctly>false</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>24</name>
+          <correctly>true</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>78</name>
+          <correctly>false</correctly>
+        </ClassVar>
+      </Varieblles>
+    </ClassQuestion>
+    <ClassQuestion>
+      <name>Вторая столица Украины</name>
+      <Varieblles>
+        <ClassVar>
+          <name>Харьков</name>
+          <correctly>true</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>Львов</name>
+          <correctly>false</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>Днепроперовск</name>
+          <correctly>false</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>Винница</name>
+          <correctly>false</correctly>
+        </ClassVar>
+      </Varieblles>
+    </ClassQuestion>
+    <ClassQuestion>
+      <name>Национальный флаг</name>
+      <Varieblles>
+        <ClassVar>
+          <name>оранжевые круги</name>
+          <correctly>false</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>Зеленый круг на белом </name>
+          <correctly>false</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>Красно белый</name>
+          <correctly>false</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>Сине желый</name>
+          <correctly>true</correctly>
+        </ClassVar>
+      </Varieblles>
+    </ClassQuestion>
+    <ClassQuestion>
+      <name>Крым наш?</name>
+      <Varieblles>
+        <ClassVar>
+          <name>Да</name>
+          <correctly>true</correctly>
+        </ClassVar>
+        <ClassVar>
+          <name>Нет</name>
+          <correctly>false</correctly>
+        </ClassVar>
+      </Varieblles>
+    </ClassQuestion>
+  </Questions>
+</ClassTest>
